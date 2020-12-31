@@ -6,3 +6,4 @@
 4. Agregamos archivos al stage
 5. Realizar el commit
 6. Verificar que se hizo el commit revisando el log
+7. Agregamos otro paso de instalación
